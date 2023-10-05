@@ -1,3 +1,3 @@
-# eduford
-my first website during my 3weeks bootcamp
+Eduford University
+Final Portfolio Project
 https://edufordunisite.netlify.app/
